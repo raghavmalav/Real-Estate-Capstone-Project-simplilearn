@@ -29,8 +29,11 @@ Project Task: Week 1
 Data Import and Preparation:
 
 Import data.
+
 Figure out the primary key and look for the requirement of indexing.
+
 Gauge the fill rate of the variables and devise plans for missing value treatment. Please explain explicitly the reason for the treatment chosen for each variable.
+
 Exploratory Data Analysis (EDA):
 
     4.Perform debt analysis. You may take the following steps:
